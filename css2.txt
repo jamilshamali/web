@@ -1,0 +1,50 @@
+css
+#header {
+	color :#58ACFA;
+	border-color : red;
+border-style:solid;
+border-width:6px;
+
+}
+	body {
+		color :green;
+border-style:solid;
+border-width:6px;
+background-color:white;
+	}
+	h2 {
+		border-style:solid;
+		border-color: orange;
+		color :#2E64FE;
+	}
+	.highlight{
+		border-style : solid;
+		border-width : thick;
+		border-color : purple;
+	}
+	#content { 
+	border-style:solid;
+	border-width : 8px;
+	border-color : blue;	
+	color :#2E64FE;
+	background-color:#E8FBFB;
+	padding: 5px 5px 5px 5px;
+	margin-top:10px
+	}
+	.highlight2{
+		border-style : solid;
+		border-width : 5px;
+		border-color : purple;
+	}
+	#main {
+			border-style:solid;
+	border-width : 8px;
+	border-color : blue;
+	color :#2E64FE;
+	background-color:#E8FBFB;
+    padding: 5px 5px 5px 5px;
+	margin-top:10px
+	
+	}
+	
+		
