@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>victoria's journal</title>
+<link  rel="stylesheet" type="text/css" href="jamil.css" />
+</Head
+<body>
+ <div id="container">
+ <div id="header">
+ <h1>victoria's journal</h1>
+ <br> <h2> so fresh and so clean</h2>
+ </div>
+ <div id="content">
+<h3><span class="highlight">04/09/08:</span> spatulas</h3>
+ <img src="jm.jpg" alt="spatulas" width="250" height="210">
+ <p> yesterday i went to the store and got so much-needed spatulas!(what a better way to say i love myself than to buy a spatula?!</p>
+ </div>
+ <div id= "main">
+ <h3><span class="highlight2">04/08/08:</span> Cookie Monster Cupcakes</h3>
+ <img src="th.jpg" alt="cupcake monsters" width="250" height="210">
+ <p>my favorite cartoon charachter is cookie monster,and my favorite dessert is cupcakes,so cookie monster and cupcakes are the best of both worlds.
+ </p>
+ <p>did u know?.cookie monster once said,"sometimes me think what is love,and then me think love is what last cookie is for.<br>
+ me give up the last cookie for you."i wonder if the same applies to cupcakes?.(if so, i dont think that i will ever love anyone.)</p>
+
+ </div>
+</body>
+</html>
